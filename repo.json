@@ -1,0 +1,24 @@
+{
+  "name": "Donghua Plugin",
+  "description": "6 proveedores de series Donghua en español",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/robertozv80/donghua-plugin/master/repo.json"
+  ],
+  "plugins": [
+    {
+      "url": "https://github.com/robertozv80/donghua-plugin/raw/master/DonghuaPlugin.cs3",
+      "tvTypes": ["Anime"],
+      "name": "Donghua Plugin",
+      "lang": "es",
+      "iconUrl": "https://www.google.com/s2/favicons?domain=seriesdonghua.com&sz=256",
+      "apiVersion": 10,
+      "version": 1,
+      "authors": ["DonghuaTV"],
+      "description": "6 proveedores: Series Donghua, Mundo Donghua, Donghua World, Rey Donghua, Donghua Life, Anime Gratis",
+      "repositoryUrl": "https://github.com/robertozv80/donghua-plugin",
+      "fileSize": 0,
+      "status": 1
+    }
+  ]
+}
