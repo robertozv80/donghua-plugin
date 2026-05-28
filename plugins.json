@@ -1,0 +1,18 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=seriesdonghua.com&sz=%size%",
+        "fileSize": 36293,
+        "fileHash": "sha256-27583b8222e9af167c70b18d932bc526d1d212aee8922aa12083ccdb8a595d01",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/robertozv80/donghua-plugin",
+        "status": 1,
+        "authors": ["DonghuaTV"],
+        "tvTypes": ["Anime"],
+        "version": 6,
+        "internalName": "DonghuaPlugin",
+        "url": "https://raw.githubusercontent.com/robertozv80/donghua-plugin/builds/DonghuaPlugin.cs3",
+        "name": "Donghua Plugin",
+        "lang": "es",
+        "description": "Series Donghua, Mundo Donghua, Donghua Life, Anime Gratis"
+    }
+]
